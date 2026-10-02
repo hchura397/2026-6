@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hchura397.github.io/2026-6/sitemap.xml
